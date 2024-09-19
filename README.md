@@ -6,6 +6,7 @@ Suggested use: Claude 3.5 Sonnet
 该提示基于SuperPrompt理念设计 https://github.com/NeoVertex1/SuperPrompt 。令LLM在推理过程中进行跨学科联系、抽象、递归分析和自我批评。在实际测试中，能够取得良好的效果。
 使用方法：直接放在系统提示词内，或放在你要输入的问题前。
 建议使用：Claude 3.5 Sonnet
+To中文用户：使用该提示词有可能获得英文回复，如果需要指定使用中文回复，可自行添加要求输出中文任意描述。
 
 # prompt
 
