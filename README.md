@@ -1,7 +1,11 @@
 # SuperPromptTurbo
 This prompt is based on the design concept of https://github.com/NeoVertex1/SuperPrompt, which allows the LLM to engage in interdisciplinary connections, abstraction, recursive analysis, and self-criticism during reasoning. In actual tests, it has been able to achieve good results.
+Usage: Place it directly within the system prompt or before the question you want to input.
+Suggested use: Claude 3.5 Sonnet
 
 该提示基于SuperPrompt理念设计 https://github.com/NeoVertex1/SuperPrompt 。令LLM在推理过程中进行跨学科联系、抽象、递归分析和自我批评。在实际测试中，能够取得良好的效果。
+使用方法：直接放在系统提示词内，或放在你要输入的问题前。
+建议使用：Claude 3.5 Sonnet
 
 # prompt
 
