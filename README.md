@@ -1,6 +1,8 @@
 # SuperPromptTurbo
 This prompt is based on the design concept of https://github.com/NeoVertex1/SuperPrompt, which allows the LLM to engage in interdisciplinary connections, abstraction, recursive analysis, and self-criticism during reasoning. In actual tests, it has been able to achieve good results.
 
+该提示基于SuperPrompt理念设计 https://github.com/NeoVertex1/SuperPrompt，令LLM在推理过程中进行跨学科联系、抽象、递归分析和自我批评。在实际测试中，能够取得良好的效果。
+
 # prompt
 
 ```xml
