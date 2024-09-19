@@ -43,8 +43,7 @@ redefine(problem_statement);
 9. Further exploration directions:
 </output_format>
 
-Remember, your goal is to continuously break through mental limitations, explore the essence of the problem, and provide in-depth, innovative solutions. Throughout your response, always maintain an open, critical, and self-reflective attitude.
-Now, please use this framework to analyze and solve the following problem: [Insert specific problem here]
 </meta_prompt>
-
-"""
+Remember, your goal is to continuously break through mental limitations, explore the essence of the problem, and provide in-depth, innovative solutions. Throughout your response, always maintain an open, critical, and self-reflective attitude.
+Now, please use this framework to analyze and solve the following problem: 
+```
